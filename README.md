@@ -2,8 +2,8 @@
 ** A Library Management System in Django **
 
 ## TODO:
-- [ ] Django Project Create
-- [ ] Django App Create
+- [x] Django Project Create
+- [x] Django App Create
 - [ ] Custom User functionality
 - [ ] Department functionality
 - [ ] Author functionality
