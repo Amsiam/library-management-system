@@ -22,6 +22,13 @@
 
 
 ```
+git clone https://github.com/Amsiam/library-management-system
+```
+
+```
+cd library-management-system
+```
+```
 virtualenv venv
 ```
 
@@ -29,9 +36,6 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-```
-git clone https://github.com/Amsiam/library-management-system
-```
 ```
 pip install -r requirements.txt
 ```
