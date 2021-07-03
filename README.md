@@ -4,13 +4,15 @@
 ## TODO:
 - [ ] Django Project Create
 - [ ] Django App Create
-- [ ] Custom User
-- [ ] Department 
-- [ ] Author
-- [ ] Book
-- [ ] Book Details In Library
-- [ ] Issue Book
-- [ ] Due Date
+- [ ] Custom User functionality
+- [ ] Department functionality
+- [ ] Author functionality
+- [ ] Book functionality
+- [ ] Book Details In Library functionality
+- [ ] Issue Book functionality
+- [ ] Due Date functionality
+- [ ] Librarian Dashboard
+- [ ] Student Dashboard
 - [ ] Rest Api
 - [ ] Frontend SetUp
 - [ ] Ui Design
